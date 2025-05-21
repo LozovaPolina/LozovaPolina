@@ -12,7 +12,7 @@
 
 ### 🧩 Who am I?
 
-```ts
+
 const Polina = {
   title: "Frontend Developer",
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python"],
@@ -43,7 +43,7 @@ const Polina = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
 </p>
-```
+
 ---
 
 ### ⚔️ CURRENT QUESTS
