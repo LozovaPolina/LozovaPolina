@@ -23,48 +23,25 @@ const Polina = {
 ---
 ```
 
-### 🔮 SPELLBOOK (Tech Stack)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23E44C4C.svg?style=for-the-badge&logo=javascript&logoColor=white&animation=glow" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-%23C53030.svg?style=for-the-badge&logo=typescript&logoColor=white&animation=glow" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-%23F56565.svg?style=for-the-badge&logo=react&logoColor=white&animation=glow" alt="React" />
-  <img src="https://img.shields.io/badge/Redux-%23B83232.svg?style=for-the-badge&logo=redux&logoColor=white&animation=glow" alt="Redux" />
-  <img src="https://img.shields.io/badge/HTML5-%23C53030.svg?style=for-the-badge&logo=html5&logoColor=white&animation=glow" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%23B83232.svg?style=for-the-badge&logo=css3&logoColor=white&animation=glow" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind-%23E53E3E.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&animation=glow" alt="Tailwind" />
-</p>
-
-<p align="center" style="display:flex; justify-content:center; gap:25px; margin-top:15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" class="spin" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" class="spin" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" class="spin" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" class="spin" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" class="spin" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" class="spin" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" class="spin" />
-</p>
-
-
-### ⚔️ CURRENT QUESTS
+### 🩸 CURRENT QUESTS
 
 - 🧩 Mastering **Redux Toolkit** + **React Query**  
 - 📦 Building **Modular UI Systems**  
-- 🕸️ Deploying real-world **fullstack** projects  
+- 🕸️ Deploying real-world **Fullstack** projects  
 - 📚 Exploring **Node.js** & **API Magic**
 
 ---
 
-### 🧭 MAP (GitHub Stats)
+### 🧛‍♀️ MAP (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LozovaPolina&show_icons=true&theme=tokyonight&title_color=ff4444&icon_color=ff4444&text_color=ffffff&bg_color=0d1117&border_radius=10" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=LozovaPolina&theme=tokyonight&hide_border=true&background=0d1117&currStreakLabel=ff4444&ring=ff4444&fire=ff4444" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LozovaPolina&show_icons=true&theme=dark&title_color=ff1a1a&icon_color=ff1a1a&text_color=cc0000&bg_color=0b0000&border_radius=15&animation=glow" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=LozovaPolina&theme=dark&hide_border=true&background=0b0000&currStreakLabel=ff1a1a&ring=cc0000&fire=ff1a1a" width="48%" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 💼 INVENTORY (Projects & Tools)
+### 🧰 INVENTORY (Projects & Tools)
 
 - 🗃️ [Personal Portfolio Website](#)  
 - 🛡️ [UI Components Library](#)  
@@ -72,6 +49,25 @@ const Polina = {
 - 🔐 [Authentication System with JWT](#)  
 - 🧱 [React Admin Dashboard (WIP)](#)
 
+---
+
+### 🎇 Vampire Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-%23ff1a1a.svg?style=for-the-badge&logo=javascript&logoColor=white&animation=glow" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-%23cc0000.svg?style=for-the-badge&logo=typescript&logoColor=white&animation=glow" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-%23ff0000.svg?style=for-the-badge&logo=react&logoColor=white&animation=glow" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-%23b30000.svg?style=for-the-badge&logo=redux&logoColor=white&animation=glow" alt="Redux" />
+  <img src="https://img.shields.io/badge/Node.js-%23220000.svg?style=for-the-badge&logo=node.js&logoColor=white&animation=glow" alt="Node.js" />
+</p>
+
+---
+
+### 🩸 Blood Drop Decoration (GIF)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR6UyL3QupcP8Rq/giphy.gif" width="60" alt="Blood Drop Animation" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4444&height=100&section=footer"/>
 
