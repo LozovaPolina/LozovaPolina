@@ -1,10 +1,8 @@
 <div align="center">
 
   
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4444&height=100&section=header" alt="Header" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4444&height=100&section=header" alt="Header" />
     
-  />
-  
   <img src="https://readme-typing-svg.herokuapp.com?lines=🩸+Welcome,+Wanderer+...;&font=Fira+Code&center=true&width=440&height=45&color=ff4444&vCenter=true&pause=1000&size=22" />
 
   <hr style="width:80%; margin: 30px auto; border: 1px solid #ff4444;" />
