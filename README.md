@@ -10,7 +10,16 @@
 
 ### 🧙‍♀️ CHARACTER STATS
 
+### 🧩 Who am I?
 
+```ts
+const Polina = {
+  title: "Frontend Developer",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python"],
+  tools: ["React", "Redux", "Tailwind", "Next.js", "TanStack Query", "React Router"],
+  currentlyLearning: ["Advanced React Patterns", "Animation with Framer Motion"],
+  funFact: "I love clean UI, clever code, and a little bit of chaos. 😈",
+};
 ---
 
 ### 🔮 SPELLBOOK (Tech Stack)
@@ -34,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
 </p>
-
+```
 ---
 
 ### ⚔️ CURRENT QUESTS
