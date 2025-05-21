@@ -12,7 +12,7 @@
 
 ### 🧩 Who am I?
 
-
+```ts
 const Polina = {
   title: "Frontend Developer",
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python"],
@@ -21,6 +21,7 @@ const Polina = {
   funFact: "I love clean UI, clever code, and a little bit of chaos. 😈",
 };
 ---
+```
 
 ### 🔮 SPELLBOOK (Tech Stack)
 
@@ -45,7 +46,6 @@ const Polina = {
 </p>
 
 ---
-
 ### ⚔️ CURRENT QUESTS
 
 - 🧩 Mastering **Redux Toolkit** + **React Query**
