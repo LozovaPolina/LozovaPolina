@@ -26,24 +26,43 @@ const Polina = {
 ### 🔮 SPELLBOOK (Tech Stack)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23E44C4C.svg?style=for-the-badge&logo=javascript&logoColor=white&animation=glow" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-%23C53030.svg?style=for-the-badge&logo=typescript&logoColor=white&animation=glow" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-%23F56565.svg?style=for-the-badge&logo=react&logoColor=white&animation=glow" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-%23B83232.svg?style=for-the-badge&logo=redux&logoColor=white&animation=glow" alt="Redux" />
+  <img src="https://img.shields.io/badge/HTML5-%23C53030.svg?style=for-the-badge&logo=html5&logoColor=white&animation=glow" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%23B83232.svg?style=for-the-badge&logo=css3&logoColor=white&animation=glow" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind-%23E53E3E.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&animation=glow" alt="Tailwind" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+<p align="center" style="display:flex; justify-content:center; gap:25px; margin-top:15px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" class="spin" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" class="spin" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" class="spin" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" class="spin" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" class="spin" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" class="spin" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" class="spin" />
 </p>
+
+<style>
+@keyframes spin {
+  0% { transform: rotate(0deg);}
+  100% { transform: rotate(360deg);}
+}
+
+.spin {
+  animation: spin 6s linear infinite;
+  filter: drop-shadow(0 0 6px #e44c4c);
+  transition: filter 0.3s ease-in-out;
+}
+
+.spin:hover {
+  filter: drop-shadow(0 0 15px #ff0000);
+  animation-play-state: paused;
+}
+</style>
+
 
 ---
 ### ⚔️ CURRENT QUESTS
