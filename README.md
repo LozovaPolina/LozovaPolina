@@ -86,7 +86,7 @@ const Polina = {
   <h3>🧛‍♀️ MAP (GitHub Stats)</h3>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=LozovaPolina&show_icons=true&theme=dark&hide_border=true&title_color=ff1a1a&icon_color=ff1a1a&text_color=cc0000&bg_color=0b0000&animation=glow" height="190" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LozovaPolina&show_icons=true&theme=dark&hide_border=true&title_color=ff1a1a&icon_color=ff1a1a&text_color=cc0000&bg_color=0b0000&animation=glow" height="180" width="48%" alt="GitHub Stats" />
     <img src="https://streak-stats.demolab.com/?user=LozovaPolina&theme=dark&hide_border=true&background=0b0000&currStreakLabel=ff1a1a&ring=cc0000&fire=ff1a1a&animation=glow"" height="200" width="48%" alt="GitHub Streak" />
   </p>
 
